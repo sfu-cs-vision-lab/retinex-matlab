@@ -3,21 +3,32 @@ message: "If you use this work, please cite it as below."
 preferred-citation:
   type: article
   authors:
-    - family-names: 
-      given-names: 
-    - family-names: 
-      given-names: 
-  title: ""
-  journal: ""
+    - family-names: Funt
+      given-names: Brian V.
+    - family-names: Ciurea
+      given-names: Florian
+    - family-names: McCann
+      given-names: John J.
+  title: "Retinex in MATLAB"
+  journal: "Journal of Electronic Imaging"
   keywords:
-    - Color
-  volume: 
-  number: 
-  pages: 
-  publisher: ""
-  year: 
-  month: 
-  doi: 
-  url: 
+    - MATLAB
+    - Image processing
+    - Control systems
+    - Data modeling
+    - Sun
+    - Calibration
+    - Visual process modeling
+    - Spatial frequencies
+    - Human vision and color perception
+    - Visualization
+  volume: 13
+  number: 1
+  pages: 48-57
+  publisher: "SPIE"
+  year: 2004
+  month: null
+  doi: 10.1117/1.1636761
+  url: https://doi.org/10.1117/1.1636761
   abstract: |
-    
+    Many different descriptions of retinex methods of lightness computation exist. This paper provides concise MATLAB implementations of two of the spatial techniques of making pixel comparisons. The code is presented along with test results on several images and a discussion of the results. The paper also discusses the calibration of input images and the post-retinex processing required to display the output images.
